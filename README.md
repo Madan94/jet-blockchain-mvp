@@ -58,6 +58,7 @@ JET leverages **Blockchain, IoTeX, W3bstream, and Smart Contracts** to build a *
 
 ### 📌 3️⃣ Smart Contracts for Automation  
 Smart contracts **execute logistics operations without intermediaries**, ensuring **fair, trustless automation**.  
+- **Smart Contracts Deployment on Polygon Mainnet**
 
 #### 🔹 Smart Contract Functions  
 ✔ **Cargo Registration:** Generates **unique NFT/token IDs** for shipments.  
@@ -113,10 +114,11 @@ Smart contracts **execute logistics operations without intermediaries**, ensurin
 ---
 
 ## 🛠 Tech Stack  
-✔ **Blockchain:** IoTeX, Ethereum  
-✔ **IoT Integration:** W3bstream  
-✔ **Smart Contracts:** Solidity  
-✔ **Data Storage:** Decentralized IPFS & IoTeX  
+- ✔ **Blockchain:** IoTeX, DePIN
+- ✔ **IoT Integration:** W3bstream  
+- ✔ **Smart Contracts:** Solidity  
+- ✔ **Smart Contracts Deployment:** Polygon Mainnet 
+- ✔ **Data Storage:** Decentralized IPFS & IoTeX  
 
 ---
 
